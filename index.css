@@ -1,0 +1,49 @@
+body {
+        background-color: #babbbf;
+        font-family: "Lucida Console", Monaco, monospace;
+}
+h1 {
+	text-align: center;
+	font-size: 76px;
+        color: #edeeef;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+
+#photo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+        height: 300px;
+}
+
+#bio {
+        font-size: 30px;
+        text-align: center;
+        color: #edeeef;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#resume {
+        font-size: 30px;
+        text-align: center;
+        color: #edeeef;
+        margin-left: 30%;
+	margin-right: 30%;
+}
+
+a {
+        color: #edeeef;
+}
+
+.back {
+        background-color: #6d92af;
+        margin: 10px;
+        margin-bottom: auto;
+}
