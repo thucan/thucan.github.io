@@ -1,0 +1,34 @@
+body {
+        background-color: #babbbf;
+        font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1 {
+	text-align: center;
+	font-size: 76px;
+        color: #edeeef;
+	padding-top: 25px;
+	padding-bottom: 25px;
+        margin-left: 20%;
+        margin-right: 20%;
+
+}
+
+p {
+        text-align: center;
+        font-size: 30px;
+        color: #edeeef;
+        background-color: #81b0e4;
+	padding-top: 20px;
+	padding-bottom: 20px;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 10%;
+}
+
+
+.back {
+        background-color: #6d92af;
+        margin: 10px;
+        margin-bottom: 10%;
+}
