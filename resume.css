@@ -45,14 +45,14 @@ p {
         margin-right: 3%;
 }
 
-#location {
+.location {
         float: right;
 }
 
 #time {
         font-style: italic;
 }
-#bold {
+.bo {
         font-weight: bold;
 }
 .back {
